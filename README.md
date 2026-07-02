@@ -1,10 +1,3 @@
-# HR Analytics: Employee Attrition & Workforce Analysis
-
-An end-to-end HR data analysis project exploring employee attrition patterns, workforce demographics, compensation, and satisfaction metrics using **PostgreSQL**, **Python (Jupyter Notebook)**, and **MS Excel**.
-
-![HR Analytics Dashboard](Dashboard_image.png)
-
----
 
 ## 📌 Project Overview
 
@@ -65,6 +58,8 @@ HR-Analytics-Employee-Attrition/
 - Verified data types, checked for duplicates and null values (0 duplicates, 0 nulls found)
 - Loaded the cleaned dataset into PostgreSQL using SQLAlchemy (`employee_attriton` table)
 - Generated summary statistics with `df.describe()` for a quick data health check
+## Python File
+- <a href="https://github.com/nazmul23423/HR_Analytics-Employee_Attrition-Workforce_Analysis/blob/main/Hr%20Data%20analysis.ipynb">Python</a>
 
 ---
 
@@ -91,6 +86,8 @@ The SQL file (`Hr_Analysis_Sql_file.sql`) contains **30 business questions**, pr
 - Departments with above-average salary (subquery)
 - Employees earning above their department's average salary
 - Top 10 highest-paid employees company-wide
+## SQL FILE
+- <a href="https://github.com/nazmul23423/HR_Analytics-Employee_Attrition-Workforce_Analysis/blob/main/Hr%20Analysis%20Sql%20file.sql">SQL Query</a>
 
 ---
 
@@ -110,6 +107,8 @@ The dashboard (built in `Hr_Analysis.xlsx`) provides an interactive view of work
 - Employees working **overtime** show a noticeably higher attrition tendency
 - **Marketing and Sales** departments have relatively higher headcount and attrition exposure
 - Attrition is fairly balanced across gender, with a slightly higher count among females
+## Dashboard
+- <a href="https://github.com/nazmul23423/HR_Analytics-Employee_Attrition-Workforce_Analysis/blob/main/Dashboard%20image.png">Dashboard Image</a>
 
 ---
 
@@ -122,13 +121,8 @@ The dashboard (built in `Hr_Analysis.xlsx`) provides an interactive view of work
 
 ---
 
-## 👤 Author
+## 📝 Author
 
-**Nazmul**
-GitHub: [nazmul23423](https://github.com/nazmul23423)
-
----
-
-## 📄 License
-
-This project is open-source and available for learning and portfolio purposes.
+**Md Nazmul Islam**
+- GitHub: [@nazmul23423](https://github.com/nazmul23423)
+- LinkedIn: [md-nazmul-islam-8b5770388](https://linkedin.com/in/md-nazmul-islam-8b5770388)
